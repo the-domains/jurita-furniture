@@ -1,4 +1,3 @@
-layout_spectrum: 0.27423126506619155
 typography_spectrum: 0.6036892663687468
 color:
   brandStrength: 0.48843973176553845
@@ -11,4 +10,6 @@ color:
     - '#F5F6D4'
     - '#A7C520'
     - '#493F0B'
+layout_spectrum: 0.27423126506619155
 name: Jurita Furniture
+title: Jurita Furniture
